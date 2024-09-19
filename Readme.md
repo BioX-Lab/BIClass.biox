@@ -44,6 +44,12 @@
 
 
 
+## 联系方式
+
+Email: guangyou.duan@qlnu.edu.cn
+
+Gitee站内私信
+
 
 
 ## 注意事项
