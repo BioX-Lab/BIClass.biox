@@ -46,7 +46,7 @@
 
 ## 联系方式
 
-Email: guangyou.duan@qlnu.edu.cn
+Email: bi.qlnu@hotmail.com
 
 Gitee站内私信
 
