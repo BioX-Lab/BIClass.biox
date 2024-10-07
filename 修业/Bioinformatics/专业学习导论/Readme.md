@@ -59,7 +59,10 @@
 
 
 
+## 学习资源
 
+- [Maki的完美算术教室的个人空间-数学与认知方法讲座](https://space.bilibili.com/391930545/channel/collectiondetail?sid=598034)
+  >Maki关于数学与认知方法的系列讲座，相关学习与认识方法等主题的讲座值得了解一下。
 
 
 
