@@ -4,7 +4,7 @@
 
 ## 如何预约
 
-学生通过通过[Doodle](https://doodle.com/)的[群组投票](https://doodle.com/meeting/organize/groups)，选择自己适合的时间区段（可以多选个时间段，根据交流的大概时间长段，可以在一天或几天内多选几个时间区间），并将Doodle链接发送至 bi.qlnu@hotmail.com；指导教师会根据可选择的时间确定Exchange时间、之后把Exchange线上交流链接发送给相应同学。
+学生通过[Doodle](https://doodle.com/)的[群组投票](https://doodle.com/meeting/organize/groups)，选择自己适合的时间区段（可以多选个时间段，根据交流的大概时间长段，可以在一天或几天内多选几个时间区间），并将Doodle链接发送至 bi.qlnu@hotmail.com；指导教师会根据可选择的时间确定Exchange时间、之后把Exchange线上交流链接发送给相应同学。
 
 
 ## 说明
