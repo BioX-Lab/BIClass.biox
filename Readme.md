@@ -59,7 +59,13 @@
 
 ### 交流讨论
 - BIClass.biox超级群
-> BIClass.biox超级群(https://imdodo.com/s/286508)用于日常交流论。
+> BIClass.biox超级群(https://imdodo.com/s/286508)用于日常交流论（推荐）。
+
+- 生物信息学QQ群
+> 群号：46382615，一个古老的群，希望可以继续发挥热量。
+
+
+
 
 ### 知识分享平台
 
