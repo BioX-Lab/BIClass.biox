@@ -51,14 +51,18 @@
   > https://share.calendar.tencent.com/xql2bN5U
   >
   > 注：本共享日历为腾讯日历，优先推荐使用腾讯日历App，也可以使用网页版或者微信小程序版。
+  
+### 资料
 
 - BIClass.biox网盘
 > 本项目配套资料，见百度网盘链接: https://pan.baidu.com/s/1ZGN_4IIfjtRSnAWKxx0IkA 提取码: 2xyz（xyz为三位数字，请替换为齐鲁师范学院2实验楼B座1楼的生物信息学实验室门牌号），资料不得外传！
 
+### 交流讨论
 - BIClass.biox超级群
 > BIClass.biox超级群(https://imdodo.com/s/286508)用于日常交流论。
 
-- 知识分享平台
+### 知识分享平台
+
 > "BioX生物信息学" 微信订阅号、抖音、简书、Bilibili等知识分享平台；使用关键词"BioX生物信息学"搜索、关注；欢迎投稿。
 
 
