@@ -17,6 +17,8 @@
 > 为进一步培养BIer的提问能力，增加BI@QLNU内部互动氛围，对BIer个人的“My-Question”项目进行补充，鼓励个人随时通过[本收集表](https://pwkn7iyrnfl.feishu.cn/share/base/form/shrcnrdLA1U0JyiamlXoeYCSXIg)进行提问（可收藏本网址，在学习、生活中遇到的各类专业与非专业问题等都可以进行提问），可以匿名（如果需要后续私下沟通，鼓励留下邮箱等联系方式）；飞书版中的问题，会组织、邀请人员进行回答，并将问答进行汇总整理，在BI@QLNU内部进行分享。
 
 
+## BIClass.biox超级群
+> 可以公开的问题，请加入BIClass.biox超级群(https://imdodo.com/s/286508)，积极交流、讨论。
 
 ## 专业学习导论课程定制版
 

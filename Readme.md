@@ -41,25 +41,25 @@
 
 
 
-
-## 日历
+## 配套资源
+### 日历
 
 - BI_QLNU共享日历
 
-  > 相关活动（教学、分享等）日历，如果有腾讯会议号码，可以在线参加。
+  >相关活动（教学、分享等）日历，如果有腾讯会议号码，可以在线参加。
   > 点击链接订阅该日历
   > https://share.calendar.tencent.com/xql2bN5U
   >
   > 注：本共享日历为腾讯日历，优先推荐使用腾讯日历App，也可以使用网页版或者微信小程序版。
 
+- BIClass.biox网盘
+> 本项目配套资料，见百度网盘链接: https://pan.baidu.com/s/1ZGN_4IIfjtRSnAWKxx0IkA 提取码: 2xyz（xyz为三位数字，请替换为齐鲁师范学院2实验楼B座1楼的生物信息学实验室门牌号），资料不得外传！
 
+- BIClass.biox超级群
+> BIClass.biox超级群(https://imdodo.com/s/286508)用于日常交流论。
 
-## 联系方式
-
-Email: bi.qlnu@hotmail.com
-
-Gitee站内私信
-
+- 知识分享平台
+> "BioX生物信息学" 微信订阅号、抖音、简书、Bilibili等知识分享平台；使用关键词"BioX生物信息学"搜索、关注；欢迎投稿。
 
 
 
@@ -69,7 +69,6 @@ Gitee站内私信
 - 学习过程中遇到的相关问题或者各类疑问（包括本项目中资料存在的问题等），可以随时在[Issues](https://gitee.com/guangyou_duan/biclass.biox/issues)中提问与交流。
 - BI20xx是齐鲁师范学院(QLNU)生物信息学专业不同年级的简称，如BI2021代表2021级生物信息学专业全体老6。
 - 项目相关问题或者建议，鼓励积极反馈（特别是BIers@QLNU，会有惊喜），也期待为本项目的贡献。
-- 本项目配套资料，见百度网盘链接: https://pan.baidu.com/s/1ZGN_4IIfjtRSnAWKxx0IkA 提取码: 2xyz（xyz为三位数字，请替换为齐鲁师范学院2实验楼B座1楼的生物信息学实验室门牌号），资料不得外传！
 
 ### 项目使用方法
 
