@@ -62,11 +62,19 @@
 > 本项目配套资料，见百度网盘链接: https://pan.baidu.com/s/1ZGN_4IIfjtRSnAWKxx0IkA 提取码: 2xyz（xyz为三位数字，请替换为齐鲁师范学院2实验楼B座1楼的生物信息学实验室门牌号），资料不得外传！
 
 ### 交流讨论
-- BIClass.biox超级群
+#### BIClass.biox超级群
 > BIClass.biox超级群(https://imdodo.com/s/286508)用于日常交流论（推荐）；如果有相关问题或想法等可以在交流讨论区（求助/讨论、日常聊天等）相关频道提问、分享与交流；频道会逐渐完善。
 
-- 生物信息学QQ群
+#### 生物信息学QQ群
 > 群号：46382615，一个古老的群，希望可以继续发挥热量。
+
+#### 个人联系方式
+> > （推荐 ）邮箱: guangyou.duan@hotmail.com
+> > 微信: guangyou_duan
+> > QQ: 375310609
+> 优先推荐邮箱联系；申请添加好友时，请（务必）标注好姓名、单位、简要的相关描述，对于BIers@QLNU，请额外标注好班级代码；对于BIers@QLNU，在QLNU毕业前请优先使用bi.qlnu@hotmail.com邮箱联系。
+>
+
 
 
 
