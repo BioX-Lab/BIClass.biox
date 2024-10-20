@@ -77,7 +77,7 @@
 
 ### [SIG项目问题或建议汇总](https://pwkn7iyrnfl.feishu.cn/docx/OVs2dh2VyoGZiexL4VtcevUmnGg)
 
-
+> 存在的共性问题会及时进行汇总、整理，请定时查阅。
 
 
 
