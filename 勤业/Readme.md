@@ -15,4 +15,6 @@
 > 生信专业核心教师开放的迷你项目。
 
 
+## [Lab-Rotation](Lab-Rotation)
+
 
