@@ -2,7 +2,7 @@
 
 SRA（Sequence Read Archive, https://www.ncbi.nlm.nih.gov/sra ）是NCBI（National Center for Biotechnology Information）提供的一个存储高通量测序数据的数据库。要查看从SRA下载的测序文件是双端测序（paired-end）还是单端测序（single-end）可以采取如下方法。
 
-### 使用SRA的网页界面
+## 使用SRA的网页界面
 1. 访问NCBI的SRA数据库网页。
 2. 搜索并找到您感兴趣的SRA编号，如SRR7433687等。
 3. 点击进入该SRA编号的页面。
