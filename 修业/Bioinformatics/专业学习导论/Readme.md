@@ -56,8 +56,8 @@
 
 ## 说明
 
-- 相关课程项目主要在Gitee (https://gitee.com/)中开展，在申请Gitee账号时，建议采用givename_familyname的格式，如youran_ding，方便确认。
-- 
+- 相关课程项目主要在Gitee (https://gitee.com/)中开展，在申请Gitee账号时，建议采用givename_familyname的格式，如张三，采用san_zhang，方便确认。
+- 课程Gitee项目设置为私有（管理-基本信息-是否开源：私有），在仓库成员中添加指导教师。
 
 
 
