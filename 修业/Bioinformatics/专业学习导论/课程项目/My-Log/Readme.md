@@ -8,7 +8,7 @@
 
 ### 新建项目
 
-- 在个人[Gitee](https://gitee.com/)中新建My-Log项目，项目访问权限设置为“私有“；
+- 在个人[Gitee](https://gitee.com/)中新建"My-Log"项目，项目访问权限设置为“私有“；
 - 添加指导教师guangyou_duan/rabbit-feather（成员权限设置为“开发者”即可）。
 
 
