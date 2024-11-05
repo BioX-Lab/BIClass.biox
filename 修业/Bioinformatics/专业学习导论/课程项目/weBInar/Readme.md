@@ -11,6 +11,7 @@
 - weBInar以实行线上直播方式为主（具体通知见BI_QLNU共享日历），如果需要线下会另行通知；
 - 每次都会为weBInar的报告人发放“专家费”或者是小的鼓励，目前执行的标准是一节分享200元，后续评估后、再进行调整；经费目前由指导老师自筹；报告结束后，（仅第一次填写即可）请及时填写[个人银行账号等信息](https://gqfwpj47z2n.feishu.cn/share/base/form/shrcnL1vn3zyM21cLaIXohpcQnb)，用于后续补助发放；
 - 报告人在准备过程新建一个weBInar的Gitee项目（如weBInar-主题等），用于准备相关主题的报告，添加指导教师(guangyou_duan)为项目成员，便于指导教师及时指导；（可选项，但鼓励）
+- 与指导教师确定相应报告可以安排上线后，通过[Doodle](https://doodle.com/)的[群组投票](https://doodle.com/meeting/organize/groups)，选择几个自己适合的时间区段发送给 bi.qlnu@hotmail.com 、确定最终的时间；
 - 每次weBInar报告结束后，报告人与指导教师会将相关材料进行内部分享，以供BIers查阅、重复学习；
 - 鼓励所有在校BIers时间合适时、尽量参与weBInar讲座，相互学习。
 
