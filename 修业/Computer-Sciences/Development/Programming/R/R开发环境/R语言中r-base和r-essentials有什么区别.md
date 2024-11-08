@@ -22,10 +22,10 @@
 ## 安装方式
 1. `r-base`：
    - 通常在安装 R 语言环境时会自动安装，或者可以通过操作系统的软件包管理器进行安装。
-   - 例如，在 Ubuntu 系统中，可以使用`apt-get`命令安装 R，此时会自动安装`r-base`。
+   - 在`BIClass_py310` conda环境中可以通过命令`conda install -c conda-forge r-base=4.4.1 -y`安装。
 2. `r-essentials`：
    - 一般需要在安装完 R 语言环境后单独安装，可以通过 R 中的包管理器（如`install.packages()`）或者从特定的软件源进行安装。
-   - 不同的操作系统和安装方法可能会有所不同。
+   - 在`BIClass_py310` conda环境中可以通过命令`conda install -c conda-forge r-essentials=4.4 -y`安装。
 
 ## 使用场景
 1. `r-base`：
@@ -34,6 +34,4 @@
 2. `r-essentials`：
    - 更适合专业的数据分析师和研究人员，他们需要更强大的数据分析工具和功能。
    - 如果你要处理大规模数据集、进行复杂的数据可视化或者进行高级的统计建模，安装`r-essentials`可以提供更多的便利和功能。
-
 #R
-
