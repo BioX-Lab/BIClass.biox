@@ -13,6 +13,7 @@
 - 报告人在准备过程新建一个weBInar的Gitee项目（如weBInar-主题等），用于准备相关主题的报告，添加指导教师(guangyou_duan)为项目成员，便于指导教师及时指导；（可选项，但鼓励）
 - 与指导教师确定相应报告可以安排上线后，通过[Doodle](https://doodle.com/)的[群组投票](https://doodle.com/meeting/organize/groups)，选择几个自己适合的时间区段发送给 bi.qlnu@hotmail.com 、确定最终的时间；
 - 每次weBInar报告结束后，报告人与指导教师会将相关材料进行内部分享，以供BIers查阅、重复学习；
+- （如果组织在线报告时）内部报告人 (BIers@QLNU)安排好人员进行录屏，报告结后将录屏链接发送给bi.qlnu@hotmail.com；
 - 鼓励所有在校BIers时间合适时、尽量参与weBInar讲座，相互学习。
 
 
