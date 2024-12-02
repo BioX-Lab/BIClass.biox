@@ -20,3 +20,5 @@
 - **进行转换并下载**：按照网站的提示进行操作，将Computer Modern字体转换为可在Word中使用的字体格式，如TrueType（.ttf）等，然后下载转换后的字体文件，并按照上述安装字体到系统的方法进行安装.
 
 安装好字体后，打开Word文档，在字体选择下拉菜单中就可以找到并使用Computer Modern字体来编辑文档了 。
+
+#Microsoft-Word #Fonts
