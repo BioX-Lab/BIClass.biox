@@ -74,5 +74,5 @@
 
 ### 2024
 
-[20241210] BI2024/赵言智，除Book-Translation外，其它课程项目在个人Gitee账号下创新。
+[20241210] BI2024/赵言智，除Book-Reading和weBInar外，其它课程项目在个人Gitee账号下创新。
 
