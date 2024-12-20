@@ -114,3 +114,51 @@
 [202412171511] SIG项目若为空项目，最多得"2.50"分，特此通知！！
 
 [202412180926] 最近三年左右一直在系统梳理、实践A(G)I对BI的影响，应该说是全方位的，所有BI相关的东西都在被重新定义与实现（从我个人的感受看，每天都经历着内心的`颤抖`与`幸福`瞬间），对于BI的教与学是一个很大的挑战，传统的课堂教学将更加没有太多意义；今天在晨练时，`SIG-0`的想法还是出现了，BI@QLNU从第二学期开始就提前进入SIG的框架吧，命名为`SIG-0`，争取推动起来；SIG的评价、反馈机制等在完成、完善中；从`SIG-0`走向`SIG-x`。
+[202412202128] 如下SIG项目等当前是开源（公开状态），不建议公开，后续有完成度高或者不错的项目，可以再公开。
+``` 
+娄成玲/SIG-3
+Yanzhi_Zhao/My log
+闫少迪/SIG-3
+Bin.jingbiox/SIG-3
+fanbo/SIG-3
+赵春月/SIG-5
+胡耀伟/SIG-3
+张远慧/SIG-5
+yuhang.cheng/SIG-5
+唐成洋/SIG-5
+peiyuan li/sig-5
+王传通/sig-5
+眼镜盒/SIG-5
+yongqiang.zhu/Sig5
+苏迪/sig-5
+wenjing-zhang/sig3
+唐成洋/SIG-4
+wenjing-zhang/SIG-1
+杨雪洁/SIG-2
+李易涵/SIG-2
+眼镜盒/SIG-4
+yuying-zhao/SIG-4
+李美玲/SIG-2
+袁堂涛/SIG-4
+xin.li.bi2022/SIG-2
+王传通/SIG-4
+qinsubi2022/SIG-2
+ziyanwang.bi2022/SIG-2
+韩多伊/SIG-2
+yongqiang.zhu/Sig4
+周雅琦/SIG_4
+田博文/Sig-4
+qinghui.cai/SIG-2
+peiyuan li/SIG3
+Bin.jingbiox/SIG-1
+赵子航/SIG-1
+齐江鑫/my_question
+jingli/SIG-3
+ziyanwang.bi2022/SIG3
+张欣茹/SIG-3
+qinsubi2022/SIG-3
+马晓龙/SIG-5
+yuying-zhao/SIG-5
+赵子航/SIG-3
+```
+竟然这么多BI2021@QLNU的项目是公开的。。
