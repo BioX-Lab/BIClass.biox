@@ -33,6 +33,16 @@
 ### 于悦
 ### 李京
 ### 王瑶
+
+#### 20241221
+- 刚开始启动项目。
+- commit message规范起来
+``` commit message
+[#IBCRSJ]立项报告 .docx
+[#IBCRSJ]借助生物信息学方法对肝癌基因标志物的筛选
+```
+- 项目相关Issues或Tasks根据项目规划和目标建立、推动。
+- 继续加油。
 ### 刘庆榕
 ### 李可心
 ### 闫少迪
@@ -64,5 +74,16 @@
 
 #### 20241220
 - Daily-Log不是必需，及时提交项目更新即可。
-
+#### 20241221
+- commit message规范起来，如下message意义不大。
+``` commit message
+[]
+[Daily Report_10.17.md]
+[Daily Report_10.10.md]
+[]
+[GSE3048火山图.jpg]
+[GSE30062火山图.jpg]
+[Daily Report_9.19.md]
+```
+- 建好项目要完成的任务（Issues或Tasks），然后逐步推进。
 
