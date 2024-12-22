@@ -88,7 +88,7 @@
 
 - 录制上述视频时可采用腾讯会议等工具，**本人视频需打开**；
 
-- 个人git项目每天及时提交相应进展；
+- 个人git项目每天及时提交相应进展；commit message参考BIClass项目中”修业/Computer-Sciences/Development/Version-Control/Git/Git使用规范.md“中的推荐
 
 - 教师指导过程及时在”指导过程记录表.docx“中进行更新；
 
