@@ -143,3 +143,5 @@
 - 每一次项目的更新都是规划好的，要有相应的Issues (Tasks)。
 #### 20241222
 - ”[]“这种commit message没有意义，建好task，逐步向前推动，每次提交要在commit message中简要说明做了什么。
+#### 20241223
+- 避免出现"[]"这种commit message，项目设计完成后，及时建立task。
