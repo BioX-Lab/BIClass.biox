@@ -15,7 +15,9 @@
 
 #### 20241223
 - "#IBD7PO Code"类似task过于宽泛；做事前先明确好要完成什么；
-- 参考资料（Doc）与Writing做好区分。
+- 参考资料（Doc）与Writing做好区分;
+- 像`[IBD7PO]commit Code-******_20241223`这条commit message，ID前加个#变为”[#IBD7PO]“，”]“后加一个空格变为"] "；”commit code“和日期在commit message中没有实际意义；继续规范commit message；
+- 代码要与自己的项目相关（连接），包括数据、结果等。
 
 ### 郭文智
 ### 许一凡
