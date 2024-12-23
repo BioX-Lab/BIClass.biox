@@ -111,7 +111,8 @@
 - ”[]“ 这种commit message想表达什么；认真阅读课程说明；吴国辉！！！
 
 #### 20241223
-- 对于我们的SIG项目，”#IBD1HM 数据“这种task过于泛化，意义甚微。
+- 对于我们的SIG项目，”#IBD1HM 数据“这种task过于泛化，意义甚微；
+- `[#IBD1HM]commit the…… gene SBP pfamid.txt and upload the Triticum aestivum dna and pfam libray to quark cloud,the link is written in the README.md` 类似commit message过于臃肿，简要标明即可，请认真学习、参考Git使用规范。
 
 ### 赵文凤
 ### 赵子航
