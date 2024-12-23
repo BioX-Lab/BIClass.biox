@@ -14,7 +14,8 @@
 - commit message要规范。
 
 #### 20241223
-- "#IBD7PO Code"类似task过于宽泛；做事前先明确好要完成什么。
+- "#IBD7PO Code"类似task过于宽泛；做事前先明确好要完成什么；
+- 参考资料（Doc）与Writing做好区分。
 
 ### 郭文智
 ### 许一凡
