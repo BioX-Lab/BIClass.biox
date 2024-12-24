@@ -36,6 +36,13 @@
 ### 李鑫
 ### 杨紫涵
 ### 蔡庆辉
+
+#### 20241224
+- 项目名称推荐为"SIG-3"；
+- commit message不规范；
+- 缺少代码、数据与结果等，项目不只是论文；
+- 今天第一次提交；
+- 不要从网页端提交，认真学习git相关操作。
 ### 陈子尧
 ### 李美玲
 ### 赵增玉
@@ -126,7 +133,9 @@
 #### 20241223
 - 对于我们的SIG项目，”#IBD1HM 数据“这种task过于泛化，意义甚微；
 - `[#IBD1HM]commit the…… gene SBP pfamid.txt and upload the Triticum aestivum dna and pfam libray to quark cloud,the link is written in the README.md` 类似commit message过于臃肿，简要标明即可，请认真学习、参考Git使用规范。
-
+#### 20241224
+- 任务创建要具体，不要太宽泛；
+- 每次提交时标明做了什么工作，而不只是一个工具, commit message按"[#your_id] your mesage"规范起来，message简明即可；
 ### 赵文凤
 ### 赵子航
 ### 王梓妍
