@@ -4,6 +4,8 @@
 
 由于WSL Ubuntu安装过程中可能出现的各类问题，当WSL Ubuntu首次启动后默认登录为root用户时，可以采用如下方案设置其它默认用户。
 
+## 方案一
+
 ``` powershell
 #在Windows系统使用管理员权限打开Powershell，执行如下命令关闭WSL
 wsl --shutdown
@@ -11,6 +13,11 @@ wsl --shutdown
 ubuntu.exe config --default-user yuting
 #执行后，打开WSL Ubuntu会发现默认用户已更改
 ```
+
+## 方案二
+
+在WSL中编辑`/etc/wsl.conf`，加入`user=<你的用户名>`，重启即可。
+
 ## 在WSL中添加用户
 如果WSL中还没添加其它用户时，需在WSL Ubuntu中添加相应用户。
 ``` bash
@@ -29,7 +36,5 @@ usermod -aG sudo yuting
 sudo vi /etc/passwd
 #找到个人用户所在行，将Shell类型更改为/bin/bash
 ```
-
-
 
 #WSL #Linux 
