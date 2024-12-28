@@ -9,8 +9,8 @@
 
 
 ``` bash
-samtools faidx hg38.fasta
 #生成hg38.fai的索引文件
+samtools faidx hg38.fasta
 samtools view -bt hg38.fasta.fai chr5_pair_nos.sam >chr5_pair_nos.bam
 ```
 
