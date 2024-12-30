@@ -30,7 +30,8 @@
 - commit message具体些。
 #### 20241230
 - 可以结合书的结构，规划好相应工作，并创建对应任务，在commit message中标注好相应任务ID；
-- 推荐使用Markdown格式。
+- 推荐使用Markdown格式；
+- commit message以简洁为主。
 ### 郭宗林
 
 #### 20241225
