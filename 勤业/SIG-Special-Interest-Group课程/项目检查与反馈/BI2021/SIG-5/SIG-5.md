@@ -104,6 +104,10 @@
 - 目录结构认真设计，类似`GSE26440_series_matrix.txt/GSE26440_series_matrix.txt`路径很不严肃；
 - commit message要言之有物，类似`[#IBFL1P] update`没有实质信息；
 - 代码文件、路径命名尽量用中文；“Analysis/GEO 数xxxx阵    .R”这种命名依然很认不认真。
+#### 20250111
+- “update”这种commit message没有意义；
+- 学会保存图形文件，不只是截图；
+- `Result/Heatmap.PNG`这种路径或命令没有意义，Heatmap是做什么的、几乎没有信息量，认真组织项目结构。
 ### 黎倩倩
 
 #### 20241222
