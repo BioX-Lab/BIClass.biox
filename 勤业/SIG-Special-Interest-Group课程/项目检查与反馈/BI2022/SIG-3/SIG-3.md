@@ -110,6 +110,10 @@
 - commit message不规范，进一步完善；
 - Analysis或Code主要存放代码、分析流程；
 - Markdown中图片改为相对路径，及时提交更新。
+#### 20250111
+- markdown中类似"C:\Users\于悦\AppData\Roaming\Typora\typora-user-images\image-20250110204503544.png"图片路径改为相对路径，也在项目中提交；
+- 每次提交不要一次提交太多东西，结合任务、提交一个方面的内容即可。
+
 ### 李京
 
 #### 20241222
