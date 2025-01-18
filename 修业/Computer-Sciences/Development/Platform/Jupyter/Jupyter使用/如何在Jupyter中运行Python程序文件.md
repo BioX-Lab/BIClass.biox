@@ -1,4 +1,4 @@
-# 如何在Jupyter中运行Pythont程序文件
+# 如何在Jupyter中运行Python程序文件
 Jupyter中运行Python程序文件可以采用如下某种方法。
 
 ## 使用`%run`魔法命令
