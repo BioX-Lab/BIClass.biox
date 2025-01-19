@@ -103,10 +103,11 @@
 
 #### 20250119
 - “[#IB8YTD] last change”这是要“升天”吗；
-- 不要一次弄一堆东西弄新，及时根据规划和进展提交更新；
+- 不要一次弄一堆东西更新，及时根据规划和进展提交更新；
 - “Result/RESULT/CLUSTER/1.png”这是Result玩呢；
 - 能明白什么是结果吗，截图累不累；
 - 文件等命名待规范。
+- “LAST WRITING CHANGE”， “SB FOR YOU”。
 
 ### 孙昊
 
