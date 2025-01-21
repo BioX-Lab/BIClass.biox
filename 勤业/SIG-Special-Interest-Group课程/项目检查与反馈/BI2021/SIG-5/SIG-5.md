@@ -168,9 +168,11 @@
 - 确保代码可以运行，有问题的地方及时标注好，及时推动、更新。
 - 目前还不清楚题目是什么，英文题目`betweenperiodontitis and primary Sjogren ¨ ’s syndrome by integrated comprehensivebioinformatics`复制都显得很”苍白“。
 
-#### 20250120
+#### 20250121
 - commit message采用推荐的规范；
-- 立项先明确题目。
+- 立项先明确题目；
+- commit message与具体提交的更新保持一致；
+- 项目题目过长。
 ### 苏迪
 ### 苏萍
 ### 周雅琦
