@@ -39,7 +39,8 @@ given-name-of-first-author\_year-of-publication\_journal-or-conference-full-name
 
 ## 写在后面
 
- 其它未提及资料的引用逻辑类似，另外为了便于检索必要时可在上述名称后添加标签信息，如"\_tag1_tag2_tagN"等。
+ - 其它未提及资料的引用逻辑类似，另外为了便于检索必要时可在上述名称后添加标签信息，如"\_tag1_tag2_tagN"等。
+ - 如果作者为团队或者组织等形式，相应名称替换为对应名称，如`The-1001-Genomes-Consortium`。
 
 
 
