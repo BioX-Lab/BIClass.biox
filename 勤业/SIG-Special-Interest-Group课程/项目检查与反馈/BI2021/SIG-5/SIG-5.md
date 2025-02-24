@@ -396,7 +396,7 @@
 
 #### 20250103
 - ”项目进展“这种任务没有意义；
-- ”[#IAUYQV] update"，commit message要简明、具体。
+- `[#IAUYQV] update`，commit message要简明、具体。
 #### 20250109
 - 目录结构认真设计，类似`GSE26440_series_matrix.txt/GSE26440_series_matrix.txt`路径很不严肃；
 - commit message要言之有物，类似`[#IBFL1P] update`没有实质信息；

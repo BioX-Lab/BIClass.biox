@@ -59,7 +59,7 @@
 ### 郭宗林
 
 #### 20241229
-- commit message中"[#IBCUPD]计算"，”]“后面添加一个空格，”[#IBCUPD] 计算“；
+- commit message中`[#IBCUPD]计算`，”]“后面添加一个空格，`[#IBCUPD] 计算`；
 - 选书不错，keep reading。
 
 ### 孙涵
