@@ -28,7 +28,7 @@
 
 - 开始SIG项目后，在个人[Gitee](https://gitee.com/)中新建SIG项目(SIG-1/2/3/4/5/6等)，项目访问权限设置为“私有“；
 
-- 依次添加guangyou_duan/rabbit-feather/whirlsyu成员（成员权限设置为“开发者”即可）; 
+- 添加guangyou_duan成员（成员权限设置为“开发者”即可）; 
 - 第1周完成。
 
 ### 立项报告

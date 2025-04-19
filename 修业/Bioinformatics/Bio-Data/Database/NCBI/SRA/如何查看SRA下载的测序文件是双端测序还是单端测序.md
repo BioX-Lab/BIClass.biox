@@ -10,7 +10,7 @@ SRA（Sequence Read Archive, https://www.ncbi.nlm.nih.gov/sra ）是NCBI（Natio
 
 ## 使用fastq-dump命令
 如果已经从SRA下载了数据，可以使用SRA Toolkit中的fastq-dump查看：
-```bash
+``` bash
 fastq-dump --split-3 SRR7433687
 ```
 如果输出两个.fastq文件，则表示是双端测序（通常是SRRXXXXXXX_1.fastq和SRRXXXXXXX_2.fastq）。如果只输出一个文件，则是单端测序。
