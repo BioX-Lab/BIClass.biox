@@ -20,7 +20,7 @@
 
 ### 新建项目
 
-- 开始wePractice项目后，在个人[Gitee](https://gitee.com/)中新建wePractice项目，项目访问权限设置为“私有“；
+- 开始wePractice项目后，在个人[Gitee](https://gitee.com/)中新建wePractice项目（使用项目模板），项目访问权限设置为“私有“；
 
 - 添加guangyou_duan成员（成员权限设置为“开发者”即可）。
 
@@ -56,3 +56,4 @@
 ## 通知与分享
 ### 2025
 
+[202504241329] BI2021@QLNU本学期的wePractice正式启动，请结合个人时间和项目要求认真有序推动，截止日期2025年5月20日。
