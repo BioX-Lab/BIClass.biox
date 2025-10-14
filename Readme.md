@@ -62,9 +62,6 @@
 > 本项目配套资料，见百度网盘链接: https://pan.baidu.com/s/1ZGN_4IIfjtRSnAWKxx0IkA 提取码: 2xyz（xyz为三位数字，请替换为齐鲁师范学院2实验楼B座1楼的生物信息学实验室门牌号），资料不得外传！
 
 ### 交流讨论
-#### BIClass.biox超级群
-> BIClass.biox超级群(https://imdodo.com/s/286508)用于日常交流论（推荐）；如果有相关问题或想法等可以在交流讨论区（求助/讨论、日常聊天等）相关频道提问、分享与交流；频道会逐渐完善。
-
 
 #### BIClass飞书话题交流群
 >欢迎加入[话题交流群](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=a29q8ed6-e294-4874-a149-7568f92d4da4)，BIers@QLNU可加入[专属飞书话题交流群](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=bcfl55d9-fcdd-44e9-acd0-28bc15d7c30c)。
