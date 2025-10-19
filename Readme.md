@@ -67,6 +67,10 @@
 >欢迎加入[话题交流群](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=a29q8ed6-e294-4874-a149-7568f92d4da4)，BIers@QLNU可加入[专属飞书话题交流群](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=bcfl55d9-fcdd-44e9-acd0-28bc15d7c30c)。
 >可随时发起话题用于讨论、交流。
 
+#### BIClass.biox超级群
+
+> BIClass.biox超级群(https://discord.gg/wN8Dzdcv)用于日常交流讨论；如果有相关问题或想法等可以在交流讨论区（常规、bi_qlnu等）相关频道提问、分享与交流；频道会逐渐完善。
+
 #### 生物信息学QQ群
 > 群号：46382615，一个古老的群，希望可以继续发挥热量。
 
