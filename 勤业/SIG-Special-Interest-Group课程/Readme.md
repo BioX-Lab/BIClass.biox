@@ -30,7 +30,7 @@
 
 ### 新建项目
 
-- 开始SIG项目后，在个人[Gitee](https://gitee.com/)中新建SIG项目(SIG-0/1/2/3/4/5/6等，推荐使用项目模板)，项目访问权限设置为“私有“；
+- 开始SIG项目后，在个人[Gitee](https://gitee.com/)中新建SIG项目(SIG-0/1/2/3/4/5/6等，推荐使用[项目模板](https://gitee.com/biox-lab/sig-template))，项目访问权限设置为“私有“；
 
 - 添加guangyou_duan成员（成员权限设置为“开发者”即可）。
 
