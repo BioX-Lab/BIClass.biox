@@ -3,6 +3,7 @@
 
 ## 2025
 
+[202510271111] 请BI2021-BI2025ers完成问卷（https://v.wjx.cn/vm/mByjdTO.aspx# ）。
 [202510011843]
 2025级生信专业国庆假期任务
 1. 邮箱申请：申请Hotmail个人邮箱 (https://www.live.com/)，邮箱地址格式：”名.姓@hotmail.com“，例如yaxuan.wu@hotmail.com，如果本地址被占用，采用”名.姓.bi2025@hotmail.com“格式，例如yaxuan.wu.bi2025@hotmail.com，请认真遵守邮箱格式；
