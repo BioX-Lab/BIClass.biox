@@ -89,6 +89,9 @@ SIG示例项目会陆续汇总指导教师参与的相关项目、BIers@QLNU的S
 ## 通知与分享
 
 ### 2025
+
+[202511061001] 之前在“致BI2025-BI2021的一封信_20251019”信件中已启动本学期SIG项目，还有非常多的BI2022/BI2023/BI2024ers没有启动；截止日期2026年1月14日（如有特殊情况可申请适当延迟），请合理安排个人时间，按照[项目说明和模板等](https://gitee.com/biox-lab/biclass.biox/tree/master/%E5%8B%A4%E4%B8%9A/SIG-Special-Interest-Group%E8%AF%BE%E7%A8%8B)认真向前推动。最近也切实意识到大部分同学对基本的邮件、Git、BIClass使用等还不会（也不主动去学、去问），请认真学习、规范使用，及时完成`修业/Bioinformatics/Course/Survey.md`中的相关问卷。
+
 [202511031123] 启动了SIG示例项目的分享，本次分享的内容是部分BI2021@QLNU的毕业论文指导项目，由于时间仓促，项目结构并不完整（包括论文等）；仅供BIers@QLNU在开展SIG课程项目时学习参考；争取尽可能多分享相关项目；We are what we repeatedly do!
 [202511030917] 由于疏忽，发现不少同学没有及时关注、正确使用BIClass项目，现启动调查（https://v.wjx.cn/vm/rSaZX7L.aspx# ），请所有BIers@QLNU看到通知后完成调查。
 [202511022057] 在启动SIG项目前，认真看课程说明，包括如何从模板项目项目创建相应学期的SIG-n项目，添加哪些项目成员等。
