@@ -1,5 +1,9 @@
 # Survey汇总
 
+## My-Question
+> BI@QLNU“专业学习导论”课程的历史版本中曾启动过"My-Question"项目，旨在鼓励思考与提问。现推出My-Question问卷版本、增加沟通渠道，如果在学习和实践过程遇到BI相关的问题等，欢迎提问。
+
+[My-Question问题收集问卷](https://v.wjx.cn/vm/tu4v9oR.aspx# )
 
 ## BI@QLNU专属
 > 相应任务完成后，BIers@QLNU必需完成如下调查；
