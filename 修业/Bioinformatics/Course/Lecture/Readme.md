@@ -1,0 +1,20 @@
+# Lecture汇总
+> 本文件汇总相关报告视频，见配套共享网盘Lecture目录。
+>
+> 注：仅供BI@QLNU内部使用，不得外传！
+
+`[BI2025]initialization[GYD]`
+#Email #Git #Gitee #BIClass #Markdown #My-Log #BI-Note
+
+
+
+## 通知与分享
+
+### 2025
+
+#### [BI2025]Review&BI-Note&My-Log[GYD]
+背景：`[BI2025]initialization[GYD]`课程结束后，很多同学的执行力异常不够，也看到了很多同学邮件收不到、内容也不会仔细看（很多同学上百封相关邮件未读），还看到了BI2025er@QLNU连指导教师的邮件也不会看（特别是还选择了指导教师为学业导师），很多现象属实让人震惊。现在的你都是你的态度和行为造就的，一切都在反映如何做人。
+适用人群：BI2025(必须参加)、BI2024(推荐参加)、其它（随意）
+准备工作：结合`[BI2025]initialization[GYD]`与BIClass等陆续推动相关事项，完成相应问卷等。
+内容：检查准备工作、Git环境详解、BI-Note与My-Log项目介绍
+时间：见BI_QLNU共享日历，如有冲突相应班委及时与 bi.qlnu@hotmail.com 反应；时间如有更改会及时通知。
