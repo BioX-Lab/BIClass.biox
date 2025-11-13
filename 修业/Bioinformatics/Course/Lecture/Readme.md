@@ -1,10 +1,29 @@
-# Lecture汇总
+# Lecture
 > 本文件汇总相关报告视频，见配套共享网盘Lecture目录。
 >
-> 注：仅供BI@QLNU内部使用，不得外传！
+> 注：
+> 1. 仅供BI@QLNU内部使用，不得外传！
+> 2. 相关Lecture录像视频如果没有特殊说明，结束后会及时上传到网盘（不用单独申请），如果超出两天后没有及时上传可联系 bi.qlnu@hotmail.com 。
+
+
+## 汇总
+
+
+`[BI2025]Review&BI-Note&My-Log[GYD]`
+#BI-Note #My-Log
+
+`[BI2022]Review&SIG&wePractice[GYD]`
+#SIG #wePractice
+
+`[BI2023]Review&SIG[GYD]`
+#SIG
+
+`[BI2024]Review&SIG[GYD]`
+#SIG
 
 `[BI2025]initialization[GYD]`
 #Email #Git #Gitee #BIClass #Markdown #My-Log #BI-Note
+
 
 
 
