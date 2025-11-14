@@ -55,6 +55,10 @@
 #### 20251113
 尚未创建项目或未与指导教师分享。
 ### 杨明静
+
+#### 20251114
+- 在推动、更新项目时，提前规划、创建好相应任务，在提交更新时commit message包含相应的任务ID，认真学习模板项目、Git规划等（具体见BIClass项目，如[修业/Computer-Sciences/Development/Version-Control/Git/Git使用规范.md · BioX-Lab/BIClass.biox - 码云 - 开源中国](https://gitee.com/biox-lab/biclass.biox/blob/master/%E4%BF%AE%E4%B8%9A/Computer-Sciences/Development/Version-Control/Git/Git%E4%BD%BF%E7%94%A8%E8%A7%84%E8%8C%83.md)等）。
+- 尽量避免在网页端更新项目。
 #### 20251113
 尚未创建项目或未与指导教师分享。
 ### 王宇
