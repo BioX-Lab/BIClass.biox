@@ -17,6 +17,8 @@
 根据项目内容评价学生的学习规划与总结等。
 
 
+## 示例项目
+[GYD-Log: GYD-Log项目，用于个人规划与总结。](https://gitee.com/biox-lab/gyd-log)
 
 ## 说明
 
