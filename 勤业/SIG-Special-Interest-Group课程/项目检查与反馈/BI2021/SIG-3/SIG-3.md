@@ -5,17 +5,17 @@
   
 
 ## 针对性问题与建议
-### 林欣源
+### Xinyuan.Lin
 #### 20240103
 Deta~
 
-### 闫敬海
-### 赵瑜滢
+### Jinghai.Yan
+### Yuying.Zhao
 #### 20231129
 使用相对路径：C:\Users\yuying\AppData\Roaming\Typora\typora-user-images\image-20231129142515265.png
 #### 20230915
 cool
-### 刘镇嘉
+### Zhenjia.Liu
 #### 20231212
 文章链接发给我一下。
 #### 20231206
@@ -25,29 +25,29 @@ WHAT-IF网站的网址是？
 #### 20230928
 Data/数据库数据/Uniprot/,目录结构中添加"数据库数据"实际上没有意义。
 
-### 李云慧
+### Yunhui.Li
 #### 20231206
-“file:///C:/Users/李云慧/AppData/Roaming/marktext/images/2023-12-06-14-35-24-1701844516(1).png”类似图片使用相对路径。
-### 朱永强
-### 刘丽
+“file:///C:/Users/Yunhui.Li/AppData/Roaming/marktext/images/2023-12-06-14-35-24-1701844516(1).png”类似图片使用相对路径。
+### Yongqiang.Zhu
+### Li.Liu
 #### 20231203
 太大的数据文件不用上传到git项目，可以自己新建一个百度网盘相应目录，在git中提供一个链接就行。
-### 李培源
-### 于文清
+### Peiyuan.Li
+### Wenqing.Yu
 #### 20231123
 这是SIG项目，不是学R语言。
-### 程宇航
+### Yuhang.Cheng
 
-### 李诺
+### Nuo.Li
 #### 20231213
 要清楚知道自己项目更新的内容。
-### 孙梦浩
-### 张远慧
-### 刘梦颖
-### 林秦汉
-### 田博文
-### 唐成洋
-### 王海莹
+### Menghao.Sun
+### Yuanhui.Zhang
+### Mengying.Liu
+### Qinhan.Lin
+### Bowen.Tian
+### Chengyang.Tang
+### Haiying.Wang
 #### 20240125
 都在干些什么。。。
 #### 20231223
@@ -62,50 +62,50 @@ Data/数据库数据/Uniprot/,目录结构中添加"数据库数据"实际上没
 命名这些基本的操作和能力还是要认真实践。
 #### 20231123
 生物信息学的教材平时坚持读；多阅读；不要做井底之娃。
-### 苏迪
-### 苏萍
-### 周雅琦
-### 蔡云卓
+### Qi.Su
+### Ping.Su
+### Yaqi.Zhou
+### Yunzhuo.Cai
 #### 20231206
 “[#I8CCVC:立项调研] add D:\development\gitee\sig-3\DOC”
 commit message是对所提交内容的简要描述。
-### 袁堂涛
-### 杨桂权
-### 孟柏芝
-### 王运祥
+### Tangtao.Yuan
+### Guiquan.Yang
+### Baizhi.Meng
+### Yunxiang.Wang
 #### 20231130
 除了日志外，其它项目资料及时更新。
-### 王雪婷
+### Xueting.Wang
 #### 20231215
 每次提交更新时，在commit message中，除了“[#I84GC6:daily]”外，也标注一下更新了什么、做了什么。
-### 刘琪璇
-### 赵春月
+### Qixuan.Liu
+### Chunyue.Zhao
 #### 20230915
 文件命名好好规范一下。
-### 刘传垚
-### 孟旭慧
+### Chuanyao.Liu
+### Xuhui.Meng
 #### 20231129
 你们应该可以申请学校的邮箱，再问一下；Dock的操作是有些细节，可以找Vina等软件的帮助手册等复现。
 #### 20230928
 “C:\Users\meng'xu'hui\AppData\Roaming\marktext\images\2023-09-27-14-54-15-image.png”图片路径改为相对路径，放在项目内。
-### 房小双
-### 赵静如
+### Xiaoshuang.Fang
+### Jingru.Zhao
 #### 20240125
 都干了什么。。
 #### 20240126
 ...
-### 马晓龙
-### 王传通
+### Xiaolong.Ma
+### Chuantong.Wang
 #### 20230927
 好好学习一下如何使用TortoiseGit和Gitee
-### 王娟
-### 焦思琪
+### Juan.Wang
+### Siqi.Jiao
 #### 20231228
 数据和代码等区分好。
-### 黎倩倩
+### Qianqian.Li
 #### 20231116
 不要一次提交，每天的更新及时提交。
-### 朱慧琪
+### Huiqi.Zhu
 #### 20230928
 C:\Users\念笙\AppData\Roaming\marktext\images\2023-09-27-11-37-17-image.png，图片路径改为相对路径，放在项目内部。
 

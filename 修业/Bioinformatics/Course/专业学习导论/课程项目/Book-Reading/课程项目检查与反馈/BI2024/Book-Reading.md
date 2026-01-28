@@ -8,32 +8,32 @@
 
 ## 针对性问题与建议
 
-### 袁晓敏
-### 白雨晨
+### Xiaomin.Yuan
+### Yuchen.Bai
 
 #### 20241221
 - `20241022-书名-年份-出版社-姓名`文件命名与项目说明中的规范不一致。
-### 赵方栋
-### 高文静
-### 高绍峰
+### Fangdong.Zhao
+### Wenjing.Gao
+### Shaofeng.Gao
 
 #### 20241222
 - 文件名格式没有按要求提交。
 - 注意"-与_"的区别。
 
-### 罗祥喆
+### Xiangzhe.Luo
 
 #### 20241222
 - 文件名中分享日期与书名之间为”-“。
 
-### 孙宇
-### 齐江鑫
+### Yu.Sun
+### Jiangxin.Qi
 
 #### 20241223
 - 文件名有问题，注意区分”-与_“；
 - 学习从本地电脑操作git项目，不要在网页端提交。
 
-### 李晨
+### Chen.Li
 
 #### 20241222
 - 文件名不规范，请认真阅读项目说明，注意区分”-与_“。
@@ -41,41 +41,41 @@
 - 文件名不规范，注意区分"-“与"_"；
 - commit message根据项目说明规范起来。
 
-### 渠宏哲
-### 丁文杰
-### 刘炳辰
+### Hongzhe.Qu
+### Wenjie.Ding
+### Bingchen.Liu
 
 #### 20241222
 - 文件名不规范，分享日期与书名之间为"-"；
 - 本项目已建立了task，后续commit message中可以添加相应task-id，按规范推动。
 
 
-### 李永剑
+### Yongjian.Li
 
 #### 20241230
 - commit message中标注好对应的task id；
 - 注意文件后缀”.docx.docx“。
 
-### 郭宗林
+### Zonglin.Guo
 
 #### 20241229
 - commit message中`[#IBCUPD]计算`，”]“后面添加一个空格，`[#IBCUPD] 计算`；
 - 选书不错，keep reading。
 
-### 孙涵
+### Han.Sun
 #### 20241227
 - 文件命名格式不对，请参照项目说明；
 - 请认真学习git使用，不要在网页上提交更新。
 
 
-### 王厚霖
-### 苏佳琦
-### 杨冰冰
-### 杨欣雨
-### 孙裕玺
-### 刘晓煜
-### 张冰冰
-### 王萌
+### Houlin.Wang
+### Jiaqi.Su
+### Bingbing.Yang
+### Xinyu.Yang
+### Yuxi.Sun
+### Xiaoyu.Liu
+### Bingbing.Zhang
+### Meng.Wang
 #### 20241228
 - 文件命名格式不对，请参照项目说明。
 
@@ -83,11 +83,11 @@
 
 - Book-Reading是班级共同的项目，不需要自己单独创建。
 
-### 刘洁
-### 王玉莹
+### Jie.Liu
+### Yuying.Wang
 #### 20250104
 - 不要在网页端进行更新，认真学习在本地电脑进行git相关操作。
-### 赵言智
+### Yanzhi.Zhao
 ### 韩宇辰
 
 #### 20241222
@@ -97,9 +97,9 @@
 - 
 
 
-### 刘耀徽
-### 丁悠然
-### 王梦梦
+### Yaohui.Liu
+### Youran.Ding
+### Mengmeng.Wang
 
 #### 20241223
 - Book-Reading是整个BI2024@QLNU共同维护一个项目，不需要个人单独创建。
@@ -107,59 +107,59 @@
 - 文件命名格式不对，请参照项目说明。
 
 
-### 田雨婷
+### Yuting.Tian
 
 #### 20241221
 - "书名.docx"放在相应的目录。
 - 文件命名按照项目说明中的要求命名。
 - commit message不用太复杂，简洁明了即可，按项目说明中的规范进行。
 
-### 周欣欣
-### 马滋晗
-### 李晓霞
-### 张新玥
-### 石潇艺
-### 张文月
-### 苗青青
+### Xinxing.Zhou
+### Zihan.Ma
+### Xiaoxia.Li
+### Xinyue.Zhang
+### Xiaoyi.Shi
+### Wenyue.Zhang
+### Qingqing.Miao
 
 ## 20241129
 
 ### 未启动学子（得分为0）
 
 ``` 未启动学子列表
-袁晓敏
-白雨晨
-赵方栋
-高文静
-高绍峰
-罗祥喆
-孙宇
-齐江鑫
-李晨
-刘炳辰
-李永剑
-孙涵
-王厚霖
-苏佳琦
-杨冰冰
-杨欣雨
-孙裕玺
-张冰冰
-王萌
-刘洁
-王玉莹
+Xiaomin.Yuan
+Yuchen.Bai
+Fangdong.Zhao
+Wenjing.Gao
+Shaofeng.Gao
+Xiangzhe.Luo
+Yu.Sun
+Jiangxin.Qi
+Chen.Li
+Bingchen.Liu
+Yongjian.Li
+Han.Sun
+Houlin.Wang
+Jiaqi.Su
+Bingbing.Yang
+Xinyu.Yang
+Yuxi.Sun
+Bingbing.Zhang
+Meng.Wang
+Jie.Liu
+Yuying.Wang
 韩宇辰
-刘耀徽
-丁悠然
-王梦梦
-田雨婷
-周欣欣
-马滋晗
-李晓霞
-张新玥
-石潇艺
-张文月
-苗青青
+Yaohui.Liu
+Youran.Ding
+Mengmeng.Wang
+Yuting.Tian
+Xinxing.Zhou
+Zihan.Ma
+Xiaoxia.Li
+Xinyue.Zhang
+Xiaoyi.Shi
+Wenyue.Zhang
+Qingqing.Miao
 ```
 
 ## 20241220
@@ -167,30 +167,30 @@
 ### 未启动学子（得分为0）
 
 ``` 未启动学子列表
-袁晓敏
-高绍峰
-罗祥喆
-孙宇
-齐江鑫
-李晨
-刘炳辰
-李永剑
-孙涵
-苏佳琦
-杨冰冰
-杨欣雨
-张冰冰
-王萌
-刘洁
+Xiaomin.Yuan
+Shaofeng.Gao
+Xiangzhe.Luo
+Yu.Sun
+Jiangxin.Qi
+Chen.Li
+Bingchen.Liu
+Yongjian.Li
+Han.Sun
+Jiaqi.Su
+Bingbing.Yang
+Xinyu.Yang
+Bingbing.Zhang
+Meng.Wang
+Jie.Liu
 韩宇辰
-刘耀徽
-丁悠然
-王梦梦
-田雨婷
-马滋晗
-李晓霞
-石潇艺
-苗青青
+Yaohui.Liu
+Youran.Ding
+Mengmeng.Wang
+Yuting.Tian
+Zihan.Ma
+Xiaoxia.Li
+Xiaoyi.Shi
+Qingqing.Miao
 ```
 
 ## 20250111
@@ -198,19 +198,19 @@
 ### 未启动学子（得分为0）
 
 ``` 未启动学子列表
-袁晓敏
-孙宇
-苏佳琦
-杨冰冰
-杨欣雨
-张冰冰
-刘洁
+Xiaomin.Yuan
+Yu.Sun
+Jiaqi.Su
+Bingbing.Yang
+Xinyu.Yang
+Bingbing.Zhang
+Jie.Liu
 韩宇辰
-刘耀徽
-丁悠然
-田雨婷
-马滋晗
-李晓霞
-石潇艺
-苗青青
+Yaohui.Liu
+Youran.Ding
+Yuting.Tian
+Zihan.Ma
+Xiaoxia.Li
+Xiaoyi.Shi
+Qingqing.Miao
 ```

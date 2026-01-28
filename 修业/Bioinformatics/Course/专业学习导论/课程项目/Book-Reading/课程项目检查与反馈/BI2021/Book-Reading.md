@@ -5,48 +5,48 @@
   
 
 ## 针对性问题与建议
-### 林欣源
+### Xinyuan.Lin
 
-### 闫敬海
-### 赵瑜滢
-### 刘镇嘉
-### 李云慧
-### 朱永强
-### 刘丽
-### 李培源
-### 于文清
-### 程宇航
+### Jinghai.Yan
+### Yuying.Zhao
+### Zhenjia.Liu
+### Yunhui.Li
+### Yongqiang.Zhu
+### Li.Liu
+### Peiyuan.Li
+### Wenqing.Yu
+### Yuhang.Cheng
 
-### 李诺
-### 孙梦浩
-### 张远慧
-### 刘梦颖
-### 林秦汉
-### 田博文
-### 唐成洋
-### 王海莹
-### 苏迪
-### 苏萍
-### 周雅琦
-### 蔡云卓
-### 袁堂涛
-### 杨桂权
-### 孟柏芝
-### 王运祥
-### 王雪婷
-### 刘琪璇
-### 赵春月
-### 刘传垚
-### 孟旭慧
-### 房小双
-### 赵静如
-### 马晓龙
-### 王传通
-### 王娟
+### Nuo.Li
+### Menghao.Sun
+### Yuanhui.Zhang
+### Mengying.Liu
+### Qinhan.Lin
+### Bowen.Tian
+### Chengyang.Tang
+### Haiying.Wang
+### Qi.Su
+### Ping.Su
+### Yaqi.Zhou
+### Yunzhuo.Cai
+### Tangtao.Yuan
+### Guiquan.Yang
+### Baizhi.Meng
+### Yunxiang.Wang
+### Xueting.Wang
+### Qixuan.Liu
+### Chunyue.Zhao
+### Chuanyao.Liu
+### Xuhui.Meng
+### Xiaoshuang.Fang
+### Jingru.Zhao
+### Xiaolong.Ma
+### Chuantong.Wang
+### Juan.Wang
 #### 20241224
 - commit message格式对了，但具体message信息较少，至少要把书名等说明。
-### 焦思琪
-### 黎倩倩
-### 朱慧琪
+### Siqi.Jiao
+### Qianqian.Li
+### Huiqi.Zhu
 
 

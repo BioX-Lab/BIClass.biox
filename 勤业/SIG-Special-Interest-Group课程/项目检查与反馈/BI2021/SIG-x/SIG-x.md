@@ -5,61 +5,61 @@
   
 
 ## 针对性问题与建议
-### 林欣源
+### Xinyuan.Lin
 > no comments on Gitee
 
-### 闫敬海
-### 赵瑜滢
+### Jinghai.Yan
+### Yuying.Zhao
 > no comments on Gitee
-### 刘镇嘉
-### 李云慧
-### 朱永强
-### 刘丽
-### 李培源
-### 于文清
-### 程宇航
+### Zhenjia.Liu
+### Yunhui.Li
+### Yongqiang.Zhu
+### Li.Liu
+### Peiyuan.Li
+### Wenqing.Yu
+### Yuhang.Cheng
 
-### 李诺
-### 孙梦浩
-### 张远慧
+### Nuo.Li
+### Menghao.Sun
+### Yuanhui.Zhang
 
 #### 20250110
 - 规范文件命名；
 - commit message`[#xxxx]add xxx`中，"]"后添加空格。
-### 刘梦颖
-### 林秦汉
+### Mengying.Liu
+### Qinhan.Lin
 > no comments on Gitee
-### 田博文
-### 唐成洋
+### Bowen.Tian
+### Chengyang.Tang
 
 #### 20250108
 - 文件命名按推荐格式进行；
 - 任务名称参考指导教师同步项目。
 
-### 王海莹
-### 苏迪
+### Haiying.Wang
+### Qi.Su
 > no comments on Gitee
 
-### 苏萍
-### 周雅琦
-### 蔡云卓
-### 袁堂涛
-### 杨桂权
-### 孟柏芝
-### 王运祥
-### 王雪婷
-### 刘琪璇
-### 赵春月
-### 刘传垚
-### 孟旭慧
-### 房小双
-### 赵静如
-### 马晓龙
-### 王传通
-### 王娟
-### 焦思琪
-### 黎倩倩
-### 朱慧琪
+### Ping.Su
+### Yaqi.Zhou
+### Yunzhuo.Cai
+### Tangtao.Yuan
+### Guiquan.Yang
+### Baizhi.Meng
+### Yunxiang.Wang
+### Xueting.Wang
+### Qixuan.Liu
+### Chunyue.Zhao
+### Chuanyao.Liu
+### Xuhui.Meng
+### Xiaoshuang.Fang
+### Jingru.Zhao
+### Xiaolong.Ma
+### Chuantong.Wang
+### Juan.Wang
+### Siqi.Jiao
+### Qianqian.Li
+### Huiqi.Zhu
 
 #### 20250609
 - 一堆”垃圾“

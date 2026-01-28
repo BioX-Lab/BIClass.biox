@@ -6,27 +6,27 @@
 
 ## 针对性问题与建议
 
-### 袁晓敏
-### 白雨晨
-### 赵方栋
+### Xiaomin.Yuan
+### Yuchen.Bai
+### Fangdong.Zhao
 #### 20250122
 - 学着规划、拆分任务。
-### 高文静
-### 高绍峰
-### 罗祥喆
-### 孙宇
-### 齐江鑫
-### 李晨
-### 渠宏哲
-### 丁文杰
+### Wenjing.Gao
+### Shaofeng.Gao
+### Xiangzhe.Luo
+### Yu.Sun
+### Jiangxin.Qi
+### Chen.Li
+### Hongzhe.Qu
+### Wenjie.Ding
 
 #### 20241222
 - commit message中简要说明所做的更新；
 - 做好规划，坚持向前推动。
 - 养成使用Markdown格式的习惯。
 - 
-### 刘炳辰
-### 李永剑
+### Bingchen.Liu
+### Yongjian.Li
 
 #### 20241226
 - commit message具体些。
@@ -34,7 +34,7 @@
 - 可以结合书的结构，规划好相应工作，并创建对应任务，在commit message中标注好相应任务ID；
 - 推荐使用Markdown格式；
 - commit message以简洁为主。
-### 郭宗林
+### Zonglin.Guo
 
 #### 20241225
 - 项目做好规划，分成不同的任务；
@@ -57,27 +57,27 @@
 - 可以进行文档拆分；
 - 虽然在截止日期前没有完成翻译，但鼓励继续认真推动；
 - 认真完成一本书的翻译，收获肯定是有的，让自己的视野不断拓展，不要沉浸在固有的东西里。
-### 孙涵
+### Han.Sun
 
 #### 20241225
 - 看到新建的空项目了；
 - 给指导教师分配开发者权限即可。
 
-### 王厚霖
-### 苏佳琦
-### 杨冰冰
-### 杨欣雨
-### 孙裕玺
-### 刘晓煜
+### Houlin.Wang
+### Jiaqi.Su
+### Bingbing.Yang
+### Xinyu.Yang
+### Yuxi.Sun
+### Xiaoyu.Liu
 #### 20241227
 - commit message中简要标明做了什么更新。
-### 张冰冰
-### 王萌
+### Bingbing.Zhang
+### Meng.Wang
 
 #### 20250122
 - 可以对文档进行拆分。
-### 刘洁
-### 王玉莹
+### Jie.Liu
+### Yuying.Wang
 #### 20241229
 - 学习使用Markdown格式。
 #### 20250102
@@ -86,24 +86,24 @@
 - 可以按照图书的顺序编排相应文件，文件命名规范一下，所有的内容放在一个文件里不是一个好的习惯。
 #### 20250120
 - 进展龟速。
-### 赵言智
+### Yanzhi.Zhao
 ### 韩宇辰
-### 刘耀徽
-### 丁悠然
-### 王梦梦
+### Yaohui.Liu
+### Youran.Ding
+### Mengmeng.Wang
 
 #### 20250115
 - 项目结构可以根据自己的理解和图书本身重新组织；
 - 尽量不依赖翻译工具。
 
-### 田雨婷
-### 周欣欣
-### 马滋晗
-### 李晓霞
-### 张新玥
-### 石潇艺
-### 张文月
-### 苗青青
+### Yuting.Tian
+### Xinxing.Zhou
+### Zihan.Ma
+### Xiaoxia.Li
+### Xinyue.Zhang
+### Xiaoyi.Shi
+### Wenyue.Zhang
+### Qingqing.Miao
 
 #### 20251211
 - Book-Translation是之前学期的课程项目，可以先专注到本学期的课程项目。
@@ -119,39 +119,39 @@
 ### 未启动学子（得分为0）
 
 ``` 未启动学子列表（得分为0）
-袁晓敏
-白雨晨
-赵方栋
-高文静
-高绍峰
-罗祥喆
-孙宇
-李晨
-渠宏哲
-刘炳辰
-李永剑
-孙涵
-王厚霖
-苏佳琦
-杨冰冰
-杨欣雨
-孙裕玺
-张冰冰
-王萌
-刘洁
-王玉莹
-赵言智
+Xiaomin.Yuan
+Yuchen.Bai
+Fangdong.Zhao
+Wenjing.Gao
+Shaofeng.Gao
+Xiangzhe.Luo
+Yu.Sun
+Chen.Li
+Hongzhe.Qu
+Bingchen.Liu
+Yongjian.Li
+Han.Sun
+Houlin.Wang
+Jiaqi.Su
+Bingbing.Yang
+Xinyu.Yang
+Yuxi.Sun
+Bingbing.Zhang
+Meng.Wang
+Jie.Liu
+Yuying.Wang
+Yanzhi.Zhao
 韩宇辰
-刘耀徽
-丁悠然
-王梦梦
-田雨婷
-马滋晗
-李晓霞
-张新玥
-石潇艺
-张文月
-苗青青
+Yaohui.Liu
+Youran.Ding
+Mengmeng.Wang
+Yuting.Tian
+Zihan.Ma
+Xiaoxia.Li
+Xinyue.Zhang
+Xiaoyi.Shi
+Wenyue.Zhang
+Qingqing.Miao
 
 ```
 
@@ -160,35 +160,35 @@
 ### 未启动学子（得分为0）
 
 ``` 未启动学子列表（得分为0）
-袁晓敏
-白雨晨
-赵方栋
-高文静
-高绍峰
-罗祥喆
-孙宇
-李晨
-刘炳辰
-孙涵
-苏佳琦
-杨冰冰
-杨欣雨
-孙裕玺
-张冰冰
-王萌
-刘洁
-王玉莹
-赵言智
+Xiaomin.Yuan
+Yuchen.Bai
+Fangdong.Zhao
+Wenjing.Gao
+Shaofeng.Gao
+Xiangzhe.Luo
+Yu.Sun
+Chen.Li
+Bingchen.Liu
+Han.Sun
+Jiaqi.Su
+Bingbing.Yang
+Xinyu.Yang
+Yuxi.Sun
+Bingbing.Zhang
+Meng.Wang
+Jie.Liu
+Yuying.Wang
+Yanzhi.Zhao
 韩宇辰
-刘耀徽
-丁悠然
-王梦梦
-田雨婷
-马滋晗
-李晓霞
-张新玥
-石潇艺
-苗青青
+Yaohui.Liu
+Youran.Ding
+Mengmeng.Wang
+Yuting.Tian
+Zihan.Ma
+Xiaoxia.Li
+Xinyue.Zhang
+Xiaoyi.Shi
+Qingqing.Miao
 
 ```
 
@@ -197,24 +197,24 @@
 ### 未启动学子（得分为0）
 
 ``` 未启动学子列表（得分为0）
-袁晓敏
-白雨晨
-赵方栋
-高文静
-孙宇
-李晨
-苏佳琦
-杨冰冰
-杨欣雨
-孙裕玺
-张冰冰
-刘洁
-赵言智
-丁悠然
-马滋晗
-李晓霞
-张新玥
-石潇艺
-苗青青
+Xiaomin.Yuan
+Yuchen.Bai
+Fangdong.Zhao
+Wenjing.Gao
+Yu.Sun
+Chen.Li
+Jiaqi.Su
+Bingbing.Yang
+Xinyu.Yang
+Yuxi.Sun
+Bingbing.Zhang
+Jie.Liu
+Yanzhi.Zhao
+Youran.Ding
+Zihan.Ma
+Xiaoxia.Li
+Xinyue.Zhang
+Xiaoyi.Shi
+Qingqing.Miao
 
 ```

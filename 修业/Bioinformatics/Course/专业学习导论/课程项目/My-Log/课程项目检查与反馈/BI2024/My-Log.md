@@ -6,21 +6,21 @@
 
 ## 针对性问题与建议
 
-### 袁晓敏
-### 白雨晨
+### Xiaomin.Yuan
+### Yuchen.Bai
 
 #### 20241227
 - 学着使用Markdown；
 - 学会做不同时间尺度的规划，不断调整和优化。
 
-### 赵方栋
-### 高文静
-### 高绍峰
-### 罗祥喆
-### 孙宇
-### 齐江鑫
-### 李晨
-### 渠宏哲
+### Fangdong.Zhao
+### Wenjing.Gao
+### Shaofeng.Gao
+### Xiangzhe.Luo
+### Yu.Sun
+### Jiangxin.Qi
+### Chen.Li
+### Hongzhe.Qu
 
 #### 20241222
 - commit message简洁即可、不要啰嗦；
@@ -29,35 +29,35 @@
 - 没有建任务，不提交更新；git相关用法认真学习。
 
 
-### 丁文杰
+### Wenjie.Ding
 
 #### 20241222
 - 养成不断总结、规划与反思的习惯，并每天坚持。
 
-### 刘炳辰
+### Bingchen.Liu
 
 #### 20241222
 - 项目说明中推荐的项目名称为"My-Log"。
-### 李永剑
+### Yongjian.Li
 
 #### 20241230
 - 建议使用Markdown格式；
 - My-Log是学习、实践人个如何在不同时间尺度上的规划与总结。
 
-### 郭宗林
-### 孙涵
+### Zonglin.Guo
+### Han.Sun
 #### 20250115
 - 创建任务可以按照不同时间尺度，如周总结等。
-### 王厚霖
-### 苏佳琦
-### 杨冰冰
-### 杨欣雨
-### 孙裕玺
-### 刘晓煜
-### 张冰冰
-### 王萌
-### 刘洁
-### 王玉莹
+### Houlin.Wang
+### Jiaqi.Su
+### Bingbing.Yang
+### Xinyu.Yang
+### Yuxi.Sun
+### Xiaoyu.Liu
+### Bingbing.Zhang
+### Meng.Wang
+### Jie.Liu
+### Yuying.Wang
 
 #### 20241229
 - 认真学习git相关操作，不要在网页端提交更新；
@@ -71,7 +71,7 @@
 #### 20250120
 - 项目推荐名称为"My-Log"。
 
-### 赵言智
+### Yanzhi.Zhao
 #### 20250122
 - 学着用Markdown。
 ### 韩宇辰
@@ -82,27 +82,27 @@
 - 认真学习git相关工具，不要从网页提交更新。
 #### 20241227
 - 学着对不同时间尺度进行规划。
-### 刘耀徽
+### Yaohui.Liu
 
 #### 20241225
 - 推荐项目名称为"My-Log"。
 
 
-### 丁悠然
-### 王梦梦
+### Youran.Ding
+### Mengmeng.Wang
 #### 20241227
 - 尽量用markdown格式文档。
 #### 20250114
 - 实践、锻炼不同时间尺度上的总结与规划。
 
-### 田雨婷
-### 周欣欣
-### 马滋晗
-### 李晓霞
-### 张新玥
-### 石潇艺
-### 张文月
-### 苗青青
+### Yuting.Tian
+### Xinxing.Zhou
+### Zihan.Ma
+### Xiaoxia.Li
+### Xinyue.Zhang
+### Xiaoyi.Shi
+### Wenyue.Zhang
+### Qingqing.Miao
 
 
 
@@ -111,36 +111,36 @@
 ### 未启动学子（得分为0）
 
 ``` 未启动学子列表
-袁晓敏
-白雨晨
-赵方栋
-高绍峰
-罗祥喆
-孙宇
-李晨
-渠宏哲
-刘炳辰
-李永剑
-孙涵
-王厚霖
-苏佳琦
-杨冰冰
-杨欣雨
-孙裕玺
-张冰冰
-王萌
-刘洁
-王玉莹
-赵言智
+Xiaomin.Yuan
+Yuchen.Bai
+Fangdong.Zhao
+Shaofeng.Gao
+Xiangzhe.Luo
+Yu.Sun
+Chen.Li
+Hongzhe.Qu
+Bingchen.Liu
+Yongjian.Li
+Han.Sun
+Houlin.Wang
+Jiaqi.Su
+Bingbing.Yang
+Xinyu.Yang
+Yuxi.Sun
+Bingbing.Zhang
+Meng.Wang
+Jie.Liu
+Yuying.Wang
+Yanzhi.Zhao
 韩宇辰
-刘耀徽
-丁悠然
-田雨婷
-马滋晗
-李晓霞
-石潇艺
-张文月
-苗青青
+Yaohui.Liu
+Youran.Ding
+Yuting.Tian
+Zihan.Ma
+Xiaoxia.Li
+Xiaoyi.Shi
+Wenyue.Zhang
+Qingqing.Miao
 
 ```
 
@@ -149,29 +149,29 @@
 ### 未启动学子（得分为0）
 
 ``` 未启动学子列表
-袁晓敏
-赵方栋
-孙宇
-李晨
-刘炳辰
-孙涵
-王厚霖
-苏佳琦
-杨冰冰
-杨欣雨
-孙裕玺
-张冰冰
-王萌
-刘洁
-王玉莹
-刘耀徽
-丁悠然
-田雨婷
-马滋晗
-李晓霞
-石潇艺
-苗青青
-孙淳欣
+Xiaomin.Yuan
+Fangdong.Zhao
+Yu.Sun
+Chen.Li
+Bingchen.Liu
+Han.Sun
+Houlin.Wang
+Jiaqi.Su
+Bingbing.Yang
+Xinyu.Yang
+Yuxi.Sun
+Bingbing.Zhang
+Meng.Wang
+Jie.Liu
+Yuying.Wang
+Yaohui.Liu
+Youran.Ding
+Yuting.Tian
+Zihan.Ma
+Xiaoxia.Li
+Xiaoyi.Shi
+Qingqing.Miao
+Chunxin.Sun
 ```
 
 ## 20250111
@@ -179,21 +179,21 @@
 ### 未启动学子（得分为0）
 
 ``` 未启动学子列表
-袁晓敏
-赵方栋
-孙宇
-王厚霖
-苏佳琦
-杨冰冰
-杨欣雨
-孙裕玺
-张冰冰
-刘洁
-王玉莹
-丁悠然
-马滋晗
-李晓霞
-石潇艺
-苗青青
-孙淳欣
+Xiaomin.Yuan
+Fangdong.Zhao
+Yu.Sun
+Houlin.Wang
+Jiaqi.Su
+Bingbing.Yang
+Xinyu.Yang
+Yuxi.Sun
+Bingbing.Zhang
+Jie.Liu
+Yuying.Wang
+Youran.Ding
+Zihan.Ma
+Xiaoxia.Li
+Xiaoyi.Shi
+Qingqing.Miao
+Chunxin.Sun
 ```

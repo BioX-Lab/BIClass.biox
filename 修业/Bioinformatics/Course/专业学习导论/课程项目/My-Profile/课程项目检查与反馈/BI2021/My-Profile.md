@@ -5,51 +5,51 @@
   
 
 ## 针对性问题与建议
-### 林欣源
+### Xinyuan.Lin
 
-### 闫敬海
-### 赵瑜滢
-### 刘镇嘉
+### Jinghai.Yan
+### Yuying.Zhao
+### Zhenjia.Liu
 
 #### 20250104
 - 不断与更好的自己相遇；
 - 把My-Profile打造成自己的动态简历，不断优化项目结构，梳理每个阶段的自己，明确后续的方向。
 
-### 李云慧
-### 朱永强
-### 刘丽
-### 李培源
-### 于文清
-### 程宇航
+### Yunhui.Li
+### Yongqiang.Zhu
+### Li.Liu
+### Peiyuan.Li
+### Wenqing.Yu
+### Yuhang.Cheng
 
-### 李诺
-### 孙梦浩
-### 张远慧
-### 刘梦颖
-### 林秦汉
-### 田博文
-### 唐成洋
-### 王海莹
-### 苏迪
-### 苏萍
-### 周雅琦
-### 蔡云卓
-### 袁堂涛
-### 杨桂权
-### 孟柏芝
-### 王运祥
-### 王雪婷
-### 刘琪璇
-### 赵春月
-### 刘传垚
-### 孟旭慧
-### 房小双
-### 赵静如
-### 马晓龙
-### 王传通
-### 王娟
-### 焦思琪
-### 黎倩倩
-### 朱慧琪
+### Nuo.Li
+### Menghao.Sun
+### Yuanhui.Zhang
+### Mengying.Liu
+### Qinhan.Lin
+### Bowen.Tian
+### Chengyang.Tang
+### Haiying.Wang
+### Qi.Su
+### Ping.Su
+### Yaqi.Zhou
+### Yunzhuo.Cai
+### Tangtao.Yuan
+### Guiquan.Yang
+### Baizhi.Meng
+### Yunxiang.Wang
+### Xueting.Wang
+### Qixuan.Liu
+### Chunyue.Zhao
+### Chuanyao.Liu
+### Xuhui.Meng
+### Xiaoshuang.Fang
+### Jingru.Zhao
+### Xiaolong.Ma
+### Chuantong.Wang
+### Juan.Wang
+### Siqi.Jiao
+### Qianqian.Li
+### Huiqi.Zhu
 
 
