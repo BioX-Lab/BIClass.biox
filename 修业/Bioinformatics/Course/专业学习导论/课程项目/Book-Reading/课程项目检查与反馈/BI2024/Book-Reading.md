@@ -114,7 +114,7 @@
 - 文件命名按照项目说明中的要求命名。
 - commit message不用太复杂，简洁明了即可，按项目说明中的规范进行。
 
-### Xinxing.Zhou
+### Xinxin.Zhou
 ### Zihan.Ma
 ### Xiaoxia.Li
 ### Xinyue.Zhang
@@ -153,7 +153,7 @@ Yaohui.Liu
 Youran.Ding
 Mengmeng.Wang
 Yuting.Tian
-Xinxing.Zhou
+Xinxin.Zhou
 Zihan.Ma
 Xiaoxia.Li
 Xinyue.Zhang

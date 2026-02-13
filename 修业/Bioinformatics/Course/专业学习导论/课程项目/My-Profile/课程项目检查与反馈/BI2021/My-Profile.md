@@ -30,7 +30,7 @@
 ### Bowen.Tian
 ### Chengyang.Tang
 ### Haiying.Wang
-### Qi.Su
+### Di.Su
 ### Ping.Su
 ### Yaqi.Zhou
 ### Yunzhuo.Cai

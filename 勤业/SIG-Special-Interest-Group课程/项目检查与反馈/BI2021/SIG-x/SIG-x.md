@@ -37,7 +37,7 @@
 - 任务名称参考指导教师同步项目。
 
 ### Haiying.Wang
-### Qi.Su
+### Di.Su
 > no comments on Gitee
 
 ### Ping.Su

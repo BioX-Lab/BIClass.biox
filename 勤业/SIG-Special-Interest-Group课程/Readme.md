@@ -152,7 +152,7 @@ peiyuan li/sig-5
 Chuantong.Wang/sig-5
 眼镜盒/SIG-5
 yongqiang.zhu/Sig5
-Qi.Su/sig-5
+Di.Su/sig-5
 wenjing-zhang/sig3
 Chengyang.Tang/SIG-4
 wenjing-zhang/SIG-1

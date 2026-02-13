@@ -96,7 +96,7 @@
 - 实践、锻炼不同时间尺度上的总结与规划。
 
 ### Yuting.Tian
-### Xinxing.Zhou
+### Xinxin.Zhou
 ### Zihan.Ma
 ### Xiaoxia.Li
 ### Xinyue.Zhang

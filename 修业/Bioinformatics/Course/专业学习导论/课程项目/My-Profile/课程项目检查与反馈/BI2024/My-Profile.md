@@ -64,7 +64,7 @@
 ### Youran.Ding
 ### Mengmeng.Wang
 ### Yuting.Tian
-### Xinxing.Zhou
+### Xinxin.Zhou
 ### Zihan.Ma
 ### Xiaoxia.Li
 ### Xinyue.Zhang
@@ -109,7 +109,7 @@ Yaohui.Liu
 Youran.Ding
 Mengmeng.Wang
 Yuting.Tian
-Xinxing.Zhou
+Xinxin.Zhou
 Zihan.Ma
 Xiaoxia.Li
 Xinyue.Zhang
@@ -150,7 +150,7 @@ Yaohui.Liu
 Youran.Ding
 Mengmeng.Wang
 Yuting.Tian
-Xinxing.Zhou
+Xinxin.Zhou
 Zihan.Ma
 Xiaoxia.Li
 Xiaoyi.Shi
@@ -181,7 +181,7 @@ Bingbing.Zhang
 Jie.Liu
 Yanzhi.Zhao
 Youran.Ding
-Xinxing.Zhou
+Xinxin.Zhou
 Zihan.Ma
 Xiaoxia.Li
 Xiaoyi.Shi

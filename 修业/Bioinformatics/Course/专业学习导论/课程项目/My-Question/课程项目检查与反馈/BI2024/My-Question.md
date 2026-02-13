@@ -90,7 +90,7 @@
 - 对问题归类本身是对问题的再认识；
 - 每学期订购的生物信息学参考书作为入门、认真研读。
 ### Yuting.Tian
-### Xinxing.Zhou
+### Xinxin.Zhou
 ### Zihan.Ma
 ### Xiaoxia.Li
 ### Xinyue.Zhang
@@ -126,7 +126,7 @@ Yanzhi.Zhao
 Yaohui.Liu
 Youran.Ding
 Yuting.Tian
-Xinxing.Zhou
+Xinxin.Zhou
 Zihan.Ma
 Xiaoxia.Li
 Xinyue.Zhang
@@ -164,7 +164,7 @@ Yuying.Wang
 Yaohui.Liu
 Youran.Ding
 Yuting.Tian
-Xinxing.Zhou
+Xinxin.Zhou
 Zihan.Ma
 Xiaoxia.Li
 Xinyue.Zhang
@@ -191,7 +191,7 @@ Yuxi.Sun
 Bingbing.Zhang
 Jie.Liu
 Youran.Ding
-Xinxing.Zhou
+Xinxin.Zhou
 Zihan.Ma
 Xiaoxia.Li
 Xinyue.Zhang

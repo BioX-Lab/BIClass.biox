@@ -97,7 +97,7 @@
 - 尽量不依赖翻译工具。
 
 ### Yuting.Tian
-### Xinxing.Zhou
+### Xinxin.Zhou
 ### Zihan.Ma
 ### Xiaoxia.Li
 ### Xinyue.Zhang
