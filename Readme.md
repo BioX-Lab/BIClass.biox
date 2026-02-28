@@ -25,7 +25,11 @@
 
 > `[#IAU40S] 修业`
 
+#### 配套项目
 
+##### [BI-Note](https://gitee.com/biox-lab/bi-note)
+
+##### [BI-Daily](https://gitee.com/biox-lab/bi-daily)
 
 ### [勤业](勤业)
 
