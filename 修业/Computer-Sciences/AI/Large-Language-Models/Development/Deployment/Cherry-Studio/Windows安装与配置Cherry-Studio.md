@@ -1,5 +1,5 @@
 # Windows 下安装与配置 Cherry Studio
-> 这里以Windows为例介绍Cherry Studio的安装与基本配置 ，其它系统类。
+> 这里以Windows为例介绍Cherry Studio的安装与基本配置 ，其它系统类似。
 
 Cherry Studio 是一个本地桌面端 AI 客户端，通常用于统一接入不同的大语言模型服务。 它的核心价值在于：
 - 提供图形界面，降低调用模型的门槛
