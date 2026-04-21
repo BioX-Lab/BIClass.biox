@@ -25,12 +25,12 @@ conda activate py-jupyter
 ```
 安装常用包：
 ``` bash
-conda install jupyter ipykernel
-# 或者 mamba install jupyter ipykernel
+conda install ipykernel
+# 或者 mamba install ipykernel
 ```
 或者使用 `pip`：
 ``` bash
-pip install jupyter ipykernel
+pip install ipykernel
 ```
 如果还要做数据分析等，可根据需求安装：
 ``` bash

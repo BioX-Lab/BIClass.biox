@@ -1,6 +1,7 @@
 # VS-Code中使用Jupyter进行R开发
 Jupyter 不只用来运行 Python Notebook。在 VS Code 中，也可以用 Jupyter 进行 R 的交互式开发，包括直接使用 `.ipynb` 笔记本，或者在合适的环境中运行 R 内核。
 如果已经在 VS Code 中配置好了 R 环境，那么再加上 Jupyter 支持后，就可以形成一套适合数据分析、统计建模和可视化探索的 R 交互式工作流。如果希望统一管理 Python、R 与 Jupyter，使用 **Conda** 来准备 R 环境通常会更省心，也更便于隔离项目依赖。
+
 ## 安装 VS Code 扩展
 打开 VS Code 扩展面板，安装以下扩展：
 - Python
@@ -47,11 +48,11 @@ IRkernel::installspec()
 #### 创建 Conda 环境
 建议按项目创建独立环境。例如：
 ``` bash
-conda create -n r-jupyter-dev -c conda-forge r-base r-irkernel jupyter
+conda create -n r-jupyter-dev -c conda-forge r-base r-irkernel
 ```
 如果还希望这个环境也能顺手运行一些常见 R 分析任务，也可以一起装一些常用包：
 ``` bash
-conda create -n r-jupyter-dev -c conda-forge r-base r-irkernel jupyter r-tidyverse r-data.table r-ggplot2
+conda create -n r-jupyter-dev -c conda-forge r-base r-irkernel r-tidyverse r-data.table r-ggplot2
 ```
 创建完成后，激活环境：
 ``` bash
@@ -62,11 +63,6 @@ conda activate r-jupyter-dev
 ``` bash
 R --version
 ```
-再检查 Jupyter 是否可用：
-``` bash
-jupyter --version
-```
-如果都能正常输出，说明这个 Conda 环境已经具备基础条件。
 #### 在 Conda 环境中补充安装 R 包
 如果环境创建时没有一次性装完，也可以激活环境后再安装：
 ``` bash
