@@ -25,16 +25,16 @@ conda activate py-jupyter
 ```
 安装常用包：
 ``` bash
-conda install ipykernel
+# 核心包为ipykernel，但由于jupyter扩展版本等原因，推荐安装jupyter，避免notebook包缺失等问题
+# conda install ipykernel
 # 或者 mamba install ipykernel
-```
-或者使用 `pip`：
-``` bash
-pip install ipykernel
+# 或者 pip install ipykernel
+mamba install jupyter					 
 ```
 如果还要做数据分析等，可根据需求安装：
 ``` bash
 pip install numpy pandas matplotlib seaborn
+# 推荐使用conda/mamba安装						   
 ```
 ## 在 VS Code 中选择 Python 解释器
 打开 VS Code 后，按以下方式选择解释器：
@@ -49,12 +49,14 @@ pip install numpy pandas matplotlib seaborn
 - Notebook 运行时找不到模块
 - VS Code 中显示的内核和终端环境不一致
 ## 安装并注册 ipykernel
-虽然有时 VS Code 会自动提示安装，但更推荐手动确认当前环境中已经安装 `ipykernel`。
 ``` bash
-pip install ipykernel
+## 如果已安装jupyter,默认已包含ipykernel，如已安装（可使用conda list ipykernel检查）可不用重复安装
+# pip install ipykernel
 # 或者 mamba install ipykernel
+# 由于jupyter扩展版本等原因，推荐直接安装jupyter
+mamba install jupyter
 ```
-为了让该环境更清晰地出现在 Jupyter 内核列表中，需要手动注册：
+为了让该环境更清晰地出现在 Jupyter 内核列表中，需要手动注册（可选，一般可自动识别）：
 ``` bash
 python -m ipykernel install --user --name py-jupyter --display-name "Python (py-jupyter)"
 ```
