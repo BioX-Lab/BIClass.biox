@@ -2,6 +2,44 @@
 
 ## 共性问题与建议
 
+
+### 20260603
+
+[202606031310]如下人员列表未完成相应项目，或者忘记添加指导教师，请认真核对，如果有误及时向 bi.qlnu@hotmail.com 反馈，最迟明天中午11:50反馈。后续会对项目进行评价，如下同学肯定是0分。在多次提醒的情况下，塔抹德BI2022@QLNU做到这种表现，作为一名教师、如果认真一些的话，这种表现和这些人有些欺负人了，太挞蚂不像话了；如果不认真的话，一群辣集，不会和这些拉吉有半点交集。
+wePractice未完成（未看到项目）人员列表：
+Bin.Jing
+Bo.Fan
+Fei.Tong
+Guohui.Wu
+Meiling.Li
+Qin.Su
+Qinghui.Cai
+Qingrong.Liu
+Ruiteng.Li
+Tianqi.Liang
+Tong.Han
+Wenfeng.Zhao
+Wenjing.Zhang
+Wenzhi.Guo
+Xuejie.Yang
+Yan.Liu
+Yaowei.Hu
+Yifan.Xu
+Zengyu.Zhao
+Zihang.Zhao
+Ziyan.Wang
+Ziyao.Chen
+SIG-6未完成（未看到项目）人员列表：
+Bin.Jing
+Bo.Fan
+Guohui.Wu
+Tianqi.Liang
+Tong.Han
+Yan.Liu
+Yaowei.Hu
+Yifan.Xu
+Zihang.Zhao
+Ziyao.Chen
   
 
 ## 针对性问题与建议
