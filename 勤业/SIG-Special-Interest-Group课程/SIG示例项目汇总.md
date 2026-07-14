@@ -32,6 +32,8 @@
 
 ### Cancer
 
+[Yiya_2024_Frontiers-in-Oncology](https://gitee.com/qlnu/yiya_2024_frontiers-in-oncology)
+
 #### TCGA
 [Guolian_2021_Chinese-Journal-of-Bioinformatics](https://gitee.com/qlnu/guolian_2021_chinese-journal-of-bioinformatics)
 
