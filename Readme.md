@@ -53,7 +53,7 @@
 
   >相关活动（教学、分享等）日历，如果有腾讯会议号码，可以在线参加。
   >点击链接订阅该日历
-  >https://share.calendar.tencent.com/jR7wsXTW
+  >https://w.calendar.tencent.com/invite/calendarShare?calendar_id=3244217551333726336&invitation_code=1698290335
   >
   >注
   >
