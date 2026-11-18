@@ -22,7 +22,7 @@
 
 - 开始wePractice项目后，在个人[Gitee](https://gitee.com/)中新建wePractice项目（使用项目模板），项目访问权限设置为“私有“；
 
-- 添加guangyou_duan成员（成员权限设置为“开发者”即可）。
+- 依次添加rabbit-feather/whirlsyu成员（成员权限设置为“开发者”即可，如果项目成员数有限制，优先添加前面的成员）。
 
 
 

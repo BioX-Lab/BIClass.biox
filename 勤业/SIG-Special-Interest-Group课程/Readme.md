@@ -32,7 +32,7 @@
 
 - 开始SIG项目后，在个人[Gitee](https://gitee.com/)中新建SIG项目(SIG-0/1/2/3/4/5/6等，推荐使用[项目模板](https://gitee.com/biox-lab/sig-template))，项目访问权限设置为“私有“；
 
-- 添加guangyou_duan/rabbit-feather成员（成员权限设置为“开发者”即可）。
+- 依次添加rabbit-feather/whirlsyu成员（成员权限设置为“开发者”即可，如果项目成员数有限制，优先添加前面的成员）。
 
 
 
